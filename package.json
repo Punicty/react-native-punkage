@@ -1,5 +1,5 @@
 {
-  "name": "react-native-punkage",
+  "name": "@Punicty/core",
   "version": "0.1.0",
   "description": "the official package from and for punicty app",
   "main": "lib/commonjs/index",
