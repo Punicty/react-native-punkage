@@ -36,15 +36,15 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/jeremy776/react-native-punkage",
+  "repository": "https://github.com/Punicty/react-native-punkage",
   "author": "jeremy776 <jeremy.kusuma2018@gmail.com> (https://github.com/jeremy776)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeremy776/react-native-punkage/issues"
+    "url": "https://github.com/Punicty/react-native-punkage/issues"
   },
-  "homepage": "https://github.com/jeremy776/react-native-punkage#readme",
+  "homepage": "https://github.com/Punicty/react-native-punkage#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "@Punicty:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
@@ -115,8 +115,7 @@
           "tabWidth": 2,
           "trailingComma": "es5",
           "useTabs": false
-        }
-      ]
+        }]
     }
   },
   "eslintIgnore": [
@@ -140,8 +139,7 @@
         "typescript",
         {
           "project": "tsconfig.build.json"
-        }
-      ]
+        }]
     ]
   }
 }
