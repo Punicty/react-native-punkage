@@ -1,5 +1,5 @@
 {
-  "name": "@Punicty/core",
+  "name": "@punicty/core",
   "version": "0.1.0",
   "description": "the official package from and for punicty app",
   "main": "lib/commonjs/index",
