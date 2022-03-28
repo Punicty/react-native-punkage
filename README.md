@@ -1,4 +1,4 @@
-# @punicty/core
+# react-native-punkage
 
 the official package from and for punicty app
 
@@ -11,7 +11,7 @@ npm install react-native-punkage
 ## Usage
 
 ```js
-import { multiply } from "@punicty/core";
+import { multiply } from "react-native-punkage";
 
 // ...
 
